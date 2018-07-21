@@ -1,1 +1,164 @@
-this test file
+Rejected
+
+1.       Candidate has a poor understanding of ML and DL concepts…has used methods without even understanding it (A/B testing, Word2Vec)
+
+2.       Poor listening skills….goes on tangential without answering the question
+
+ 
+
+Technical Topics Covered:
+
+ 
+
+1.       Supervise ML – Support Vector Machines
+
+2.       Deep Learning – RNN/LSTM
+
+3.       Word Embedding – Word2Vec
+
+4.       Experimentation – A/B Tests
+
+
+
+
+
+ Probability & Statistics -
+
+-     Feature engineering/Selection –
+
+-     ML algorithms –
+
+-     Deep Learning –
+
+-     NLP –
+
+-     R & Python exposure –
+
+ 
+
+You can ask candidate to be prepared on below pointers:
+
+ 
+
+1.      Prepare on coding ( PYTHON or R) They can give small problems to write code.
+
+2.      whatever they have done in predictive modelling, they should know in and out of that.
+
+3.      overall ML concept
+
+4.      Logisitic regression, random forest ( understand all these techniques and why they have used)
+
+5.      why , which , accuracy of the model.
+
+6.      how did they arrive at solution.
+
+7.      how did they optimize the solution
+
+
+
+Q-if you reduce dimensionality model how will work
+Q-cost function- coding
+
+
+
+1. The technical questions completely​:-
+​
+Why do we select validation data other than test data?
+Difference between linear logistic regression? Why do we take such a complex cost function for logistic?
+Difference between random forest and decision tree? How would you decide when to stop splitting the tree? 
+Backhend of many algorithms was asked?
+Details of all most of the projects done?
+Projects explanation into details.
+Name few R libraries and use of them.
+And so on lots and lots of questions in that.
+
+1) Measures of central tendency
+2) What is the requirement of k means algorithm
+3) Which clustering technique uses combining of clusters
+4) Which is the oldest probability distribution
+5) What all values does a random variable can take
+6) Types of random variables
+7) Normality of residuals
+8) Probability questions 
+9) Sensitivity and specificity etc.
+
+Technical interview
+
+Initial questions were more from the project.
+Why do you want to switch?
+How much would you rate yourself on R/SAS/Python  from scale of 1 to 10?
+R libraries you used most often and why?
+One scenario basic question of R was given?
+Explain one of your projects in very basic terms as if we dont know analytics.
+Some mathematical questions related to educational background.
+And more questions from project side. No machine learning questions in this round.
+1) Questions on Projects
+2) Data Preparations After Modeling
+3) Questions on Python
+4) Time Series ques (based on projects done)
+1) Walk me through your resume
+2) Asked questions on the project - related to techniques
+3) What is logistic regression and how it is different from linear regression
+4) Logic of sigmoid function
+5) Background of k means - how to decide number of clusters, logic, when does cluster movement stops
+6) Decision trees - What is node and how does it splits - Questions on CART, CHAID etc.
+6) Packages of R and Python
+
+
+Third round - Managerial interview
+
+1) Walk me through your resume
+2) Asked to explain a project and about its implications for the client
+3) Asked to explain a project to a common man who do not have any logic of analytics
+4) Case study
+5) Why do you want to change job
+
+Fourth round - HR interview
+
+1) Why do you want to change job
+2) Future aspirations from this company
+
+Q/Why are you looking out for a change from you current company;
+nothing negative abt your current co. 
+
+Q/ Why did you moved from your previous company ?
+
+Explain your learning & your career with the current company & then how keen you are to get associated with Top 6th MNC of the world 
+
+Below are the points to remember while explaining your profile !! 
+
+1/ Your projects
+Please take us through your resume :
+Imp Points
+Please ensure you start with beg of your career with the upward graph & start explaining about your projects which are related to Analytics. what techniques you have used & what language you have used. All the analytics project should be read through before hand very very carefully & important pts should be highlighted during interview.
+
+1/How many models did you built from scratch & the kind of inputs you had recvd from stalk holder?
+2/One important problem you have got stuck recently & how did you finally resolved 3/ what are different stages your project is divided in & what is your contribution
+
+
+2/Technical question 
+
+-Will be asked technical questions in between , while you  are explaining your project on R,Python,Sas coding ( depending upon which skill you have used)
+
+Examples :
+-Ques on Matrix and array
+-Given Three columns in a dataframe - country, state and sales. Find the states having sales >10,000 and using these states find the corresponding countires having sales >10,00,000.
+- Multiply V1=c(1,2,3) and V2=c(3,4)  in R
+-Given a data frame with 3 columns- credict_card_number, month(1-12) and sales. Find the 4th highest sale for each country.
+-Percentage Concordance.
+-Guess Estimation of how many flights take off from delhi.
+-Guess Estimation of how many cars are their in B'lore.
+
+3/Case study Round
+
+You will be given a scenario.Please advise your approach & advise them working of the model creation. They are evaluating you on your approach & how would be to reach the solution . Please remember this... so all if s buts to explained in detail
+
+Pick any of your projects and explain the end objective as to what was the aim for doing that. 
+
+4/ Machine Learning/Predictive-
+
+Expecting you to explain the project & depth in which you have used ML technique.
+
+5/Latest Technique-
+
+What are your latest techniques you used for business problem solution & explain the same.Cite examples from your projects
